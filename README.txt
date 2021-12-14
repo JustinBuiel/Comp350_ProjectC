@@ -1,0 +1,3 @@
+Project C had us create a readFile function and shell where we could execute programs and write out the contents of files on the diskc.img file created by the compileOS.sh script.
+
+Worked in a group with Brendan and Marven; they worked on shell and other future steps as I worked through some problems with readFile. I then took their code and implemented it into my files and fixed a few bugs they couldn't test.
